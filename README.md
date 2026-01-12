@@ -114,5 +114,7 @@ No markdown, no code blocks, no extra fields.
 
 ## License
 
-MIT
+### MIT License
+
+![MIT](/LICENSE)
 
