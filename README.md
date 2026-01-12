@@ -115,8 +115,4 @@ No markdown, no code blocks, no extra fields.
 ## License
 
 MIT
-# automatic-calendar
-# automatic-calendar
-# automatic-calendar
-# automatic-calendar
-# automatic-calendar
+
